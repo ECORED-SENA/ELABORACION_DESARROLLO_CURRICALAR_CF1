@@ -24,116 +24,26 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Formación para el trabajo y el desarrollo humano',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
+            titulo: 'Tipos de formación para el trabajo y el desarrollo humano',
+            hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
+            titulo: 'Características de la formación para el trabajo y el desarrollo humano',
+            hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
+            titulo: 'Normativa de la formación para el trabajo y el desarrollo humano',
+            hash: 't_1_3',
           },
         ],
       },
@@ -141,44 +51,20 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Formación Profesional Integral',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Infografía Animada',
+            titulo: 'Características de la formación profesional integral',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Video Motion',
+            titulo: 'Principios de la formación profesional integral',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Motion + Presentador',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Animación 2D',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Video interactivo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Infografías',
-            hash: 't_2_6',
           },
         ],
       },
@@ -186,56 +72,142 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Programa de formación',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
             titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
+              'Tipos',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
+            titulo: 'Componentes',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Clasificación de los hilos',
+            titulo: 'Modalidad de formación',
             hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Clasificación de tejidos',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Caracterización de los tejidos',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Procesos textiles',
-            hash: 't_3_6',
           },
         ],
       },
-    ],
-    subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Modelos pedagógicos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo:
+              'Tipos',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Modelo pedagógico del SENA',
+            hash: 't_4_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Modelos pedagógicos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo:
+              'Objetivo',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: 'Alcance',
+            hash: 't_5_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.3',
+            titulo: 'Componentes',
+            hash: 't_5_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.4',
+            titulo: 'PEI del SENA',
+            hash: 't_5_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'Teorías del aprendizaje',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.1',
+            titulo:
+              'Aprendizaje significativo',
+            hash: 't_6_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.2',
+            titulo: 'Teoría del aprendizaje sociocultural',
+            hash: 't_6_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.3',
+            titulo: 'Estrategias de aprendizaje',
+            hash: 't_6_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.4',
+            titulo: 'Aprendiz',
+            hash: 't_6_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.5',
+            titulo: 'Estilos de aprendizaje',
+            hash: 't_6_5',
+          },   
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.6',
+            titulo: 'Aprendizaje con TIC',
+            hash: 't_6_6',
+          },                   
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        icono: 'far fa-file-alt',
+        numero: '7',
+        titulo: 'Enseñanza',
         desarrolloContenidos: true,
       },
+
+    ],
+    subMenu: [
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -266,141 +238,146 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Ausubel, D. (1976). Psicología educativa: Un punto de vista cognoscitivo. Trillas.',
+    },
+    {
+      referencia:
+        'Barron, B., y Darling-Hammond, L. (2008). <i>Teaching for Meaningful Learning. A Review of Research on Inquiry-Based and Cooperative Learning. The George Lucas Educational Foundation.</i>',
+    },
+    {
+      referencia:
+        'Coll, C., Onrubia, J., y Mauri, T. (2007). Tecnología y prácticas pedagógicas: Las TIC como instrumentos de mediación de la actividad conjunta de profesores y estudiantes. Anuario de Psicología, 38, 25.',
+    },
+    {
+      referencia:
+        'Flórez, R. (1994). Hacia una pedagogía del conocimiento. McGraw-Hill.',
+    },
+    {
+      referencia:
+        'Flórez, R. (2005). Pedagogía del conocimiento. Editorial Mac-GrawHill. ',
+    },
+    {
+      referencia:
+        'Gallego, R., y Pérez R. (1998). Aprendibilidad- enseñabilidad- educabilidad: una discusión. Revista Colombiana de Educación, (36-37).',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://doi.org/10.17227/01203916.5873',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Martí, J., Heydrich, M., Rojas, M., y Hernández, A. (2010). Aprendizaje basado en proyectos: Una experiencia de innovación docente. Revista Universidad EAFIT, 46(158), 11-21.',
+    },
+    {
+      referencia:
+        'Organización Internacional del Trabajo. (2013). Aportes al debate sobre objetos de aprendizaje para el desarrollo de competencias laborales. OIT.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://www.oitcinterfor.org/l-laborales',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Pecore, J. L. (s. f.). From Kilpatrick’s Project Method. TO Project-Based Learning.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Presidencia de Colombia (1994). Decreto 1860 de 1994, por el cual se reglamenta parcialmente la Ley 115 de 1994 en los aspectos pedagógicos y organizativos generales.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/1362321',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
+        'SENA (1997). Acuerdo 008 de 1997. Por medio del cual se adopta el Estatuto de la Formación Profesional del Servicio Nacional de Aprendizaje. SENA',
+    },  
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'SENA. (2012). Modelo pedagógico de la formación integral. SENA',
+    },      
+    {
+      referencia:
+        'SENA. (2013). proyecto educativo institucional. SENA.',
+    },      
+    {
+      referencia:
+        'SENA. (2019). Resolución 2198 de 2019, por la cual se modifica la clasificación y los niveles de los programas de formación, su denominación y su duración, las modalidades de formación y otras condiciones especiales relacionadas con el acceso a la Formación Profesional Integral, deroga la Resolución 1444 de 2018 y modifica el artículo 2o de la Resolución 2130 de 2013. SENA',
+    },    
+    {
+      referencia:
+        'SENA. (2021). Observatorio laboral y ocupacional colombiano.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://observatorio.sena.edu.co/',
+    },      
+    {
+      referencia:
+        'Unesco. (2005). Hacia las sociedades del conocimiento. Unesco.',
+    },  
+    {
+      referencia:
+        'Unesco. (2016). Orientaciones para la elaboración de políticas docentes en América Latina y el Caribe. Unesco.',
+    },    
+    {
+      referencia:
+        'Universidad Católica del Norte. (2021). ¿Qué es educación o formación para el trabajo y el desarrollo humano?',
+      link:
+        'https://www.ucn.edu.co/gtdh/Paginas/que-es.aspx',
+    },  
+    {
+      referencia:
+        'Vergara, G. (2021). La teoría de los estilos de aprendizaje.',
+      link:
+        'https://sociologiaenlaunjfsc.wordpress.com/2020/08/27/la-teoria-de-los-estilos-de-aprendizaje-por-carlos-vergara/2021',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
+        'Villar, S. (2013). Aprendizaje basado en proyectos. Universidad de Zaragoza.',
+    },        
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Vygotsky, L. (1978). El desarrollo de los procesos psicológicos superiores. Grupo Editorial Grijalbo. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
-    },
+        'https://is.gd/wi7Ocm',
+    },  
+    {
+      referencia:
+        'Vygotsky, L. (1995). Pensamiento y lenguaje. Teoría del desarrollo cultural de las funciones psíquicas. Fausto.',
+    },       
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Aprendizaje',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'acción y efecto de aprender algún arte, oficio u otra cosa. Adquisición por la práctica de una conducta duradera.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Didáctica ',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'propio, adecuado o con buenas condiciones para enseñar o instruir. Que tiene como finalidad fundamental enseñar o instruir.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Enseñanza',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'ejemplo, acción o suceso que sirve de experiencia, enseñando o advirtiendo cómo se debe obrar en casos análogos. Conjunto de conocimientos, principios, ideas, etc., que se enseñan a alguien.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Pedagogía',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'ciencia que se ocupa de la educación y la enseñanza. Práctica educativa o de enseñanza en un determinado aspecto o área.',
     },
     {
-      termino: 'Moda',
+      termino: 'Teoría',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'DIseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'serie de las leyes que sirven para relacionar determinado orden de fenómenos.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'Gamba, A. (2014) Modelos pedagógicos (Línea de tiempo).',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=C6nYnxnwFqU&t=4s',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'SENA. (2012). Modelo Pedagógico de la Formación integral. SENA.',
+      tipo: 'Documento anexo',
+      link: 'http://rvcmar.org/EDT_MODELO_PEDAG_SENA/MODELO%20PEDAG%20DE%20LA%20FPI%20SENA.pdf',
     },
   ],
   creditos: {

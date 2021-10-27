@@ -22,28 +22,47 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5  Para comprender la concepción actual de formación para el trabajo y el desarrollo humano, se invita a consultar la siguiente línea de tiempo que ubica, cronológicamente, las leyes y artículos que, desde la organización y disposición del Estado, se han propuesto para tal fin:
-    //-- Aqui viene la imagen infografica
-    ImagenInfograficaB.color-primario.mb-5
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/t1-i2.svg', alt='infografia descriptiva')
 
-      div(x="20%" y="20%" tooltip="tooltip de max 35 caracteres")
-        h5 titulo
-        p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+    .scrrollBox-H
+      ImagenInfografica.color-primario.mb-5.customInfografica
+        template(v-slot:imagen)
+          figure
+            img(src='@/assets/curso/t1-i2-1.svg', alt='Texto que describa la imagen')
 
-    ImagenInfografica.color-secundario.mb-5
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/t1-i2.svg', alt='Texto que describa la imagen')
+        .tarjeta.color-acento-botones.p-3(x="5%" y="90%")
+          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+            i.fas.fa-check
+            | Ver más
 
-      .tarjeta.color-secundario.p-3(x="20%" y="20%")
-        a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
-          i.fas.fa-check
-          | Ver más
+        .tarjeta.color-acento-botones.p-3(x="20%" y="90%")
+          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+            i.fas.fa-check
+            | Ver más
 
+        .tarjeta.color-acento-botones.p-3(x="35%" y="90%")
+          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+            i.fas.fa-check
+            | Ver más
 
+        .tarjeta.color-acento-botones.p-3(x="50%" y="90%")
+          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+            i.fas.fa-check
+            | Ver más
 
+        .tarjeta.color-acento-botones.p-3(x="65%" y="90%")
+          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+            i.fas.fa-check
+            | Ver más            
+
+        .tarjeta.color-acento-botones.p-3(x="80%" y="90%")
+          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+            i.fas.fa-check
+            | Ver más    
+
+        .tarjeta.color-acento-botones.p-3(x="93%" y="90%")
+          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+            i.fas.fa-check
+            | Ver más    
 
 
     p.mb-5  Una vez haya logrado la comprensión del concepto de la formación para el trabajo y el desarrollo humano, se invita a revisar los tipos, las características y la normativa que corresponden:
@@ -82,22 +101,6 @@
 
 
 
-
-
-
-
-
-    Separador
-    br
-    br
-    #t_1_2.titulo-segundo
-      h2 1.2 Características de la formación para el trabajo y el desarrollo humano 
-
-    Separador
-    br
-    br
-    #t_1_3.titulo-segundo
-      h2  1.3. Normativa de la formación para el trabajo y el desarrollo humano 
 
 
 

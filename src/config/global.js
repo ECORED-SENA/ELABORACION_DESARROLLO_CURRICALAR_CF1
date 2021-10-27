@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'Marco conceptual pedagógico',
+    componenteFormativo: 'Marco conceptual pedagógico',
     descripcionCurso:
       'A través del desarrollo de este componente se llevará a cabo la contextualización conceptual sobre la educación en Colombia, la formación profesional y los modelos pedagógicos de manera que se cuente sustentos teóricos para realizar procesos de desarrollo curricular de acuerdo con la metodología SENA. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -36,13 +35,15 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Características de la formación para el trabajo y el desarrollo humano',
+            titulo:
+              'Características de la formación para el trabajo y el desarrollo humano',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Normativa de la formación para el trabajo y el desarrollo humano',
+            titulo:
+              'Normativa de la formación para el trabajo y el desarrollo humano',
             hash: 't_1_3',
           },
         ],
@@ -78,8 +79,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo:
-              'Tipos',
+            titulo: 'Tipos',
             hash: 't_3_1',
           },
           {
@@ -106,8 +106,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo:
-              'Tipos',
+            titulo: 'Tipos',
             hash: 't_4_1',
           },
           {
@@ -128,8 +127,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.1',
-            titulo:
-              'Objetivo',
+            titulo: 'Objetivo',
             hash: 't_5_1',
           },
           {
@@ -162,8 +160,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.1',
-            titulo:
-              'Aprendizaje significativo',
+            titulo: 'Aprendizaje significativo',
             hash: 't_6_1',
           },
           {
@@ -189,13 +186,13 @@ export default {
             numero: '6.5',
             titulo: 'Estilos de aprendizaje',
             hash: 't_6_5',
-          },   
+          },
           {
             icono: 'far fa-file-alt',
             numero: '6.6',
             titulo: 'Aprendizaje con TIC',
             hash: 't_6_6',
-          },                   
+          },
         ],
       },
       {
@@ -205,7 +202,6 @@ export default {
         titulo: 'Enseñanza',
         desarrolloContenidos: true,
       },
-
     ],
     subMenu: [
       {
@@ -259,8 +255,7 @@ export default {
     {
       referencia:
         'Gallego, R., y Pérez R. (1998). Aprendibilidad- enseñabilidad- educabilidad: una discusión. Revista Colombiana de Educación, (36-37).',
-      link:
-        'https://doi.org/10.17227/01203916.5873',
+      link: 'https://doi.org/10.17227/01203916.5873',
     },
     {
       referencia:
@@ -269,8 +264,7 @@ export default {
     {
       referencia:
         'Organización Internacional del Trabajo. (2013). Aportes al debate sobre objetos de aprendizaje para el desarrollo de competencias laborales. OIT.',
-      link:
-        'http://www.oitcinterfor.org/l-laborales',
+      link: 'http://www.oitcinterfor.org/l-laborales',
     },
     {
       referencia:
@@ -285,39 +279,36 @@ export default {
     {
       referencia:
         'SENA (1997). Acuerdo 008 de 1997. Por medio del cual se adopta el Estatuto de la Formación Profesional del Servicio Nacional de Aprendizaje. SENA',
-    },  
+    },
     {
       referencia:
         'SENA. (2012). Modelo pedagógico de la formación integral. SENA',
-    },      
+    },
     {
-      referencia:
-        'SENA. (2013). proyecto educativo institucional. SENA.',
-    },      
+      referencia: 'SENA. (2013). proyecto educativo institucional. SENA.',
+    },
     {
       referencia:
         'SENA. (2019). Resolución 2198 de 2019, por la cual se modifica la clasificación y los niveles de los programas de formación, su denominación y su duración, las modalidades de formación y otras condiciones especiales relacionadas con el acceso a la Formación Profesional Integral, deroga la Resolución 1444 de 2018 y modifica el artículo 2o de la Resolución 2130 de 2013. SENA',
-    },    
+    },
     {
       referencia:
         'SENA. (2021). Observatorio laboral y ocupacional colombiano.',
-      link:
-        'https://observatorio.sena.edu.co/',
-    },      
+      link: 'https://observatorio.sena.edu.co/',
+    },
     {
       referencia:
         'Unesco. (2005). Hacia las sociedades del conocimiento. Unesco.',
-    },  
+    },
     {
       referencia:
         'Unesco. (2016). Orientaciones para la elaboración de políticas docentes en América Latina y el Caribe. Unesco.',
-    },    
+    },
     {
       referencia:
         'Universidad Católica del Norte. (2021). ¿Qué es educación o formación para el trabajo y el desarrollo humano?',
-      link:
-        'https://www.ucn.edu.co/gtdh/Paginas/que-es.aspx',
-    },  
+      link: 'https://www.ucn.edu.co/gtdh/Paginas/que-es.aspx',
+    },
     {
       referencia:
         'Vergara, G. (2021). La teoría de los estilos de aprendizaje.',
@@ -327,17 +318,16 @@ export default {
     {
       referencia:
         'Villar, S. (2013). Aprendizaje basado en proyectos. Universidad de Zaragoza.',
-    },        
+    },
     {
       referencia:
         'Vygotsky, L. (1978). El desarrollo de los procesos psicológicos superiores. Grupo Editorial Grijalbo. ',
-      link:
-        'https://is.gd/wi7Ocm',
-    },  
+      link: 'https://is.gd/wi7Ocm',
+    },
     {
       referencia:
         'Vygotsky, L. (1995). Pensamiento y lenguaje. Teoría del desarrollo cultural de las funciones psíquicas. Fausto.',
-    },       
+    },
   ],
   glosario: [
     {
@@ -368,16 +358,15 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'Gamba, A. (2014) Modelos pedagógicos (Línea de tiempo).',
+      texto: 'Gamba, A. (2014) Modelos pedagógicos (Línea de tiempo).',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=C6nYnxnwFqU&t=4s',
     },
     {
-      texto:
-        'SENA. (2012). Modelo Pedagógico de la Formación integral. SENA.',
+      texto: 'SENA. (2012). Modelo Pedagógico de la Formación integral. SENA.',
       tipo: 'Documento anexo',
-      link: 'http://rvcmar.org/EDT_MODELO_PEDAG_SENA/MODELO%20PEDAG%20DE%20LA%20FPI%20SENA.pdf',
+      link:
+        'http://rvcmar.org/EDT_MODELO_PEDAG_SENA/MODELO%20PEDAG%20DE%20LA%20FPI%20SENA.pdf',
     },
   ],
   creditos: {

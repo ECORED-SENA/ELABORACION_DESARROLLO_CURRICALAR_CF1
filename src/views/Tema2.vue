@@ -18,7 +18,7 @@
             .bloque-texto-d__autor 
               p.mb-0 - SENA, 2012
 
-        .tarjeta.color-secundario.p-3(data-aos="flip-left")
+        .tarjeta.color-secundario.bg-gradiente.p-3(data-aos="flip-left")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/t2-i1.svg")
@@ -28,7 +28,7 @@
                   h3.mb-1 Modelo pedagógico de la formación profesional integral del SENA
                   p.text-small Descargue aquí el modelo pedagógico de la formación profesional integral en el enfoque para el desarrollo de competencias y el aprendizaje por proyectos. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/modelo-pedagogico-sena.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

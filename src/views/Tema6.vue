@@ -40,7 +40,7 @@
                   h3.mb-1 Aprendizaje Significativo y Aprendizaje Mecánico
                   p.text-small Para ampliar las características generales y requisitos del aprendizaje significativo, se invita a consultar el anexo 2 “Aprendizaje significativo”. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo2_AprendizajeSignificativo.docx')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

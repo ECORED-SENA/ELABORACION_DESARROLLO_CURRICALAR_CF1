@@ -153,8 +153,16 @@
         p.mb-0  El modelo pedagógico de la formación profesional integral es un documento de 2012 coherente con la Ley 119 de 1994 que recoge los principios formativos del SENA, amalgamando los aspectos técnicos de la vocación original de la institución, con los aspectos humanos en clave de las complejidades individuales. Esa mirada equilibrada posibilita interacciones potentes desde el punto de vista del hacer y sensibles desde las dinámicas humanas enfocando las acciones educativas en la formación integral mediado por el desarrollo y fortalecimiento de las competencias.     
     
     .row.mb-5.justify-content-center
-      .col-lg-2
-        //-- Aqui viene el box
+      .col-lg-10
+        .border-box
+          .row.align-items-center
+            .col-lg-6
+              p Es de vital importancia que una institución educativa contemporánea tome como referente los elementos más importantes de los modelos pedagógicos descritos anteriormente, para la construcción de su propio modelo que a la postre será quien le de identidad formativa y norte pedagógico. De manera gráfica se explica a través de la siguiente figura.
+            .col-lg-6.bg-softYellow
+              figcaption.customCaption <b>Figura</b> Modelo pedagógico del SENA
+              figure.p-3
+                img.nW.centered(src='@/assets/curso/t4-i9.png' alt='Modelo pedagógico del SENA')
+              figcaption  Nota. Tomada de SENA (2012)
     .row.mb-5
       .col-lg-7
         p El modelo pedagógico construido a la medida del SENA se basa en las posturas conceptuales de múltiples teóricos y organizaciones que responden a diversas áreas de conocimiento, en diferentes momentos históricos, construcción necesaria dadas las características institucionales y entendiendo la formación para el trabajo y el desarrollo humano como punto de llegada. Para el SENA, es una gran responsabilidad asumir un modelo pedagógico ecléctico dado que la preparación para la vida laboral estuvo ubicada de manera clásica en el conductismo que favorecía la respuesta, el desempeño y la obediencia por encima de los procesos humanos, sin embargo, la formación para el trabajo y el desarrollo humano exige modelos pedagógicos flexibles y lo suficientemente completos como para incluir valores y competencias que permitan la edificación de la personalidad y la capacidad de vivir en sociedad empleando prácticas de buena ciudadanía. 

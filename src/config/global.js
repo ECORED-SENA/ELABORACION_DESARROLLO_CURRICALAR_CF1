@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'A través del desarrollo de este componente se llevará a cabo la contextualización conceptual sobre la educación en Colombia, la formación profesional y los modelos pedagógicos de manera que se cuente sustentos teóricos para realizar procesos de desarrollo curricular de acuerdo con la metodología SENA. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [

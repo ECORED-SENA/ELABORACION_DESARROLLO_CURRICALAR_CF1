@@ -21,7 +21,54 @@
     #t_3_1.titulo-segundo
       h2 3.1  Tipos
     p.mb-5  La Resolución 2198 de 2019 indica que la formación profesional integral se clasifica como se muestra en la siguiente tabla.
-    //-- Aqui viene la tabla
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        .tabla-b.color-primario.mb-5
+          table
+            thead.tabla-b__header
+              tr
+                th Clasificación
+                th Niveles de programas de Formación profesional integral
+            tr
+              td Formación Laboral
+              td 
+                ul.lista-ul
+                  li
+                    i.fas.fa-check
+                    p.mb-0  Operario
+                  li
+                    i.fas.fa-check
+                    p.mb-0  Auxiliar
+                  li
+                    i.fas.fa-check
+                    p.mb-0  Técnico laboral
+                  li
+                    i.fas.fa-check
+                    p.mb-0  Profundización técnica                               
+                                    
+            tr
+              td Formación Tecnológica
+              td 
+                ul.lista-ul
+                  li
+                    i.fas.fa-check
+                    p.mb-0  Tecnólogos
+                  li
+                    i.fas.fa-check
+                    p.mb-0  Especialización tecnológica              
+            tr
+              td Formación complementaria
+              td 
+                ul.lista-ul
+                  li
+                    i.fas.fa-check
+                    p.mb-0  Formación complementaria
+                  li
+                    i.fas.fa-check
+                    p.mb-0  Eventos de divulgación tecnológica     
+        
+          figcaption Nota: Tomada de SENA (2019)
+
 
     Separador
     br
@@ -74,10 +121,32 @@
     br
     #t_3_3.titulo-segundo
       h2 3.3. Modalidad de formación
-      
+
     p.mb-5  La categoría modalidad de formación está relacionada con la temporalidad, la territorialidad y la interacción entre instructor y aprendices, de la siguiente manera.
+    .row.mb-5.justify-content-center
+      .col-xs-6.col-sm-8.col-md-7.col-lg-6.col-xl-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/t3-c1.png", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Modalidad presencial
+              p.small Se lleva a cabo en los ambientes de aprendizaje físico, el proceso de formación en competencias se lleva a cabo en interacción con el instructor y en colaboración entre los aprendices, en el SENA el porcentaje de trabajo autónomo es del 80%. Esta modalidad no excluye la mediación de las TIC. 
 
+      .col-xs-6.col-sm-8.col-md-7.col-lg-6.col-xl-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/t3-c2.png", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Modalidad a distancia
+              p.small Las interacciones se llevan a cabo en tiempo real en los ambientes de aprendizaje físico y de forma desterritorializada apoyadas por las TIC. La relación presencialidad/virtualidad es 40/60 (Res. 2198 de 2019).
 
+      .col-xs-6.col-sm-8.col-md-7.col-lg-6.col-xl-4
+        .nav-holder.align-items-center(data-aos="flip-left")
+          img(src="@/assets/curso/t3-c3.png", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Modalidad virtual
+              p.small Las interacciones entre instructor y aprendices están completamente mediadas por las TIC de manera sincrónica y asincrónica. 
 
 
 

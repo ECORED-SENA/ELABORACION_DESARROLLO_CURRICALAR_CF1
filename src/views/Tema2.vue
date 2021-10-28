@@ -111,6 +111,17 @@
             figure.slideInLeft
               img(src='@/assets/curso/t2-i4.jpg', alt='imagen decorativa')
 
+    .row.mb-5
+      .col-lg-2
+        figure(data-aos="flip-left")
+          img(src='@/assets/curso/t2-i5.svg', alt='imagen decorativa')
+      .col-lg-10
+        p.mb-0.text-bold(data-aos="slide-left")  Para la comprensión de los elementos fundamentales de la formación profesional integral, es necesario la ampliación conceptual pormenorizando las características y los principios que se detallan en el siguiente recurso:
+
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        figure(data-aos="flip-left")
+          img(src='@/assets/curso/t2-i6.svg', alt='ilustracion de conceptos de formación profesional')
 
 
 

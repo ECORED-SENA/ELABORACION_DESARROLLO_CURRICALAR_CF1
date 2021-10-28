@@ -52,14 +52,66 @@
       h2  6.2  Teoría de aprendizaje sociocultural
     p.mb-5  En el recurso teoría del aprendizaje sociocultural se puede consultar información relevante con el propósito de ampliar algunos elementos conceptuales de dicho aprendizaje.    
     
-    //-- Aqui viene el slider
+    .tarjeta.bg-sliders.p-5.mb-5
+      SlyderA
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 Teoría de aprendizaje sociocultural
+            p La segunda teoría a la que se quiere hacer referencia es la del aprendizaje sociocultural, pues esta explica que el aprendizaje es producto de la interacción social, elemento predominante en las estrategias del aprendizaje activo. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t6-s1.png', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            .h4 Lev Semiónovich Vigotsky <br>(Orsha, 1896 - Moscú, 1934)
+            p Una de las contribuciones esenciales de Lev Vygotsky ha sido la de concebir al sujeto como un ser eminentemente social, producto de su contexto, de su historia y al conocimiento mismo como un producto social de la interacción con los otros en cada momento de la historia. Todos los procesos psicológicos superiores como la comunicación, el lenguaje, el razonamiento, etc. se adquieren primero en un contexto social y luego se internalizan, es decir, se apropian de manera individual y se aplican en situaciones reales. Esta internalización es un producto de uso de un determinado comportamiento cognitivo en un contexto social (Vygotsky, 1995).
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t6-s3.png', alt='imagen decorativa')
 
+        .row
+          .col-lg-12
+            p.mb-4  De acuerdo con la teoría sociocultural, el niño pasa de las funciones psíquicas inferiores a las superiores por medio su interacción con la cultura, es decir, en la interacción del niño con la realidad, él construye su conocimiento acerca de la misma (Vygotsky, 1978). En el enfoque sociocultural, lo fundamental está en la noción de apropiación y el carácter social, activo y comunicativo de los sujetos implicados en la construcción de conocimiento, que ocurre en los ambientes de aprendizaje intencionados.
 
+          .col-md-4
+            figure
+              img(src='@/assets/curso/t6-s4.png', alt='imagen decorativa')
 
+          .col-md-4
+            figure
+              img(src='@/assets/curso/t6-s4-1.png', alt='imagen decorativa')
 
+          .col-md-4
+            figure
+              img(src='@/assets/curso/t6-s4-2.png', alt='imagen decorativa')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p En la teoría del aprendizaje sociocultural es de vital importancia la cultura, el lenguaje y el contexto en el proceso de construcción del conocimiento. Quien aprende construye su versión de la realidad y esta debe ser discutida con los profesores y pares, a través del proceso de mediación, para llegar a un nivel más alto de verdad que haya sido validado socialmente. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t6-s5.png', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Los instructores, quienes de manera intencional planean e implementan el proceso docente educativo para la construcción de conocimientos y con ello la formación y fortalecimiento de competencias para aplicarlas en contextos específicos, cobra interés la categoría <b>“Zona de desarrollo próximo”</b>, se define como la distancia entre el nivel real de desarrollo, determinado por la capacidad del estudiante de resolver independientemente un problema, y el nivel de desarrollo potencial, determinado a través de la resolución de un problema bajo la guía del instructor y en colaboración con sus pares. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t5-s6.png', alt='imagen decorativa')
 
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p El proceso de enseñanza para el aprendizaje será potencialmente efectivo si el instructor conoce el nivel real de desarrollo del aprendiz y la zona de desarrollo potencial (Vygotsky, 1995, p. 133), en otras palabras si conoce el contexto y los conocimientos que trae el estudiante y lo que puede llegar a saber con su mediación y la de sus compañeros de clase. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t6-s7.png', alt='imagen decorativa')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p En la perspectiva de la teoría del aprendizaje sociocultural, las tecnologías digitales tienen un carácter mediacional gracias a la acción regulada e intencionada del instructor, es decir, enriquecen la experiencia de construcción colectiva de conocimiento, son un puente que tiende el docente entre los contenidos y los aprendices, para recrear, ampliar, diversificar las interacciones que se generan en los diferentes ambientes de aprendizaje (Coll, Onrubia y Mauri, 2007). 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/t6-s7.png', alt='imagen decorativa')
 
 
     Separador

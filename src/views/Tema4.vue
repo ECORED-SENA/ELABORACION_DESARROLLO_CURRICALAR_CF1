@@ -83,7 +83,46 @@
         .cajon.color-secundario.p-4.mb-5
           p.mb-0  <b>Es importante resaltar que</b>, en la actualidad, es difícil encontrar instituciones que estén plenamente adscritas a una sola corriente o modelo, entendiendo la diversidad de métodos existentes y sumando la variación histórica en el ideal de ciudadanos e individuos; siendo estos factores determinantes en la elección de las corrientes a emplear. 
 
-    //-- Aqui vienen los tabs
+    TabsC.color-primario.mb-5
+      .py-3.py-md-4(titulo="Modelo pedagógico tradicional")
+        .row
+          .col-md-3
+            figure
+              img.nW(src='@/assets/curso/t4-i4.jpg', alt='imagen decorativa')
+          .col-md-9.mb-4.mb-md-0
+            h4  Modelo pedagógico tradicional
+            p Desde el punto de vista histórico, social y económico, Flórez, (1994) describe que este modelo pedagógico tiene la intención de formar seres humanos que mantengan el orden imperante, que los sujetos que se forman en él acepten su condición social y económica y la autoridad que quienes detentan el poder, como emanado de un poder divino, se forjaba el carácter, la voluntad, la disciplina, fundamentado en una serie de valores y normas que provenían de las religiones, se privilegiaban procesos de pensamiento memorísticos, la transmisión de conocimiento a partir de los contenidos de los libros de texto. La educación en el marco de este constructo teórico era para elites de la sociedad. Este modelo centra su forma de enseñanza en los saberes disciplinares expuestos por el docente que, para la época, era portador casi exclusivo de los conocimientos que se impartían en el aula y las formas didácticas utilizadas conducían a la comprensión del profesor como protagonista del proceso educativo, relegando a los estudiantes a posturas pasivas y receptoras tabulas rasas que requerían ser llenadas con el conocimiento del docente.        
+      .py-3.py-md-4(titulo="Modelo pedagógico conductista")
+        .row
+          .col-md-3
+            figure
+              img.nW(src='@/assets/curso/t4-i5.jpg', alt='imagen decorativa')
+          .col-md-9.mb-4.mb-md-0
+            h4  Modelo pedagógico conductista
+            p.mb-3  A partir de la Revolución francesa y con el auge de la Revolución Industrial se hizo necesario formar seres humanos para la producción social que afianza y aceleran el modo de producción capitalista, cada vez más secular, antropocentrista, que fortalece la producción a gran escala y, paralelamente, la clase trabajadora se forma en este contexto, promueve el desarrollo de destrezas para la producción industrial y en serie, sus contenidos de aprendizaje están fundamentados en las ciencias positivas, se moldea la conducta de sujeto que se forma a partir de refuerzos positivos o negativos.
+            p.mb-3  Es importante resaltar la necesidad imperante de una sociedad conducida a la obediencia, las revoluciones y el orden mundial al que condujeron sentaron las bases de paradigmas productivos, el respeto por los rangos y el apego a los procedimientos. Para lograr esas características en los individuos era importante la observación, la emulación y la repetición, siendo la escuela el primer centro de entrenamiento de personas para la nueva sociedad.
+            p.mb-3  El rol del docente en este modelo sigue siendo centralista y es quien posee el conocimiento y los elementos que debe transmitir a los estudiantes quienes, si bien pueden participar e inmiscuirse, siguen siendo receptores que repiten procedimientos para afinar la técnica. El hacer, el control del cuerpo y el tiempo, la respuesta a estímulos y la obediencia son rasgos distintivos de este modelo.
+
+      .py-3.py-md-4(titulo="Modelo pedagógico constructivista")
+        .row
+          .col-md-3
+            figure
+              img.nW(src='@/assets/curso/t4-i6.jpg', alt='imagen decorativa')
+          .col-md-9.mb-4.mb-md-0
+            h4  Modelo pedagógico constructivista
+            p.mb-3  En el marco de este constructo teórico, en contexto del desarrollo científico y tecnológico y como ruptura a la formación de seres humanos que acepten los fenómenos científicos, políticos, sociales, económicos como una verdad absoluta, se generan condiciones para la formación y desarrollo de procesos de pensamiento de orden superior, se privilegia el método inductivo con el que se han construido las ciencias básicas y aplicadas para la gestión y producción de nuevo conocimiento. En este paradigma se reivindica la formación de pensamiento autónomo, la construcción de conocimiento a través de la experiencia directa con el objeto de conocimiento, las relaciones maestro-estudiantes democráticas, horizontales. El modelo constructivista se ha desarrollado conceptualmente de la mano de la psicología cognitiva, cuyo aporte fundamental a la pedagogía fue el explicar de qué manera aprende un sujeto, como se dan los procesos de pensamiento desde los básicos como la observación y la comparación hasta los procesos de orden superior o complejos como el análisis o la síntesis. En este modelo ha sido posible entender que formar un sujeto trasciende la memorización y repetición de tareas, interviene el medio, los aprendizajes previos, la interacción con el mundo. 
+            p.mb-3  Las guerras mundiales representaron el fracaso de la razón de la Europa Occidental, tras considerar haber llegado a la cúspide del conocimiento a través del positivismo y desconocer otras cosmovisiones, las guerras representan lo peor de la capacidad de destrucción entre humanos y nos configuramos como una amenaza planetaria. Si bien los modelos pedagógicos que intentaban ser disruptivos con los hegemónicos venían tratando de visibilizarse desde finales del siglo XIX y principios del XX, fueron estos eventos de degradación humana los que permitieron abrir la mirada a modelos centrados en el ser que aprende, tomando distancia de la educación como entrenamiento y apuntando a la formación de seres humanos críticos y gestores de sus propios conocimientos.
+
+      .py-3.py-md-4(titulo="Modelo pedagógico social")
+        .row
+          .col-md-3
+            figure
+              img.nW(src='@/assets/curso/t4-i7.jpg', alt='imagen decorativa')
+          .col-md-9.mb-4.mb-md-0
+            h4  Modelo pedagógico social
+            p.mb-3  Formar individuos para fortalecer el sistema de producción industrial creó las bases para la comprensión de la realidad en la que viven los trabajadores, a través de su trabajo intelectual y material contribuyen a la generación de valor, a la acumulación de capital de la que se apropian los dueños de los medios de producción, el producto de su trabajo no les permite tener bienestar material, disfrutar la riqueza producto de su trabajo. Tomar conciencia que el valor que general, se lo apropian los dueños del capital, crea las condiciones para formar un ser transformador. Así el contexto económico, social y político de la revolución industrial promueve un tipo de sujeto que aprende inmerso en su cotidianidad, en su lugar trabajo, en las relaciones con sus compañeros con una perspectiva crítica y humanista, promueve la formación de un sujeto que conoce la realidad para transformarla. El modelo pedagógico social fomenta la toma de conciencia, el conocimiento de la realidad en perspectiva histórica genera reflexión hacia el cambio, promueve el desarrollo de procesos de pensamiento hacia la solución de problemas del mundo de la vida. 
+            p.mb-3  Este modelo también invita a tomar distancia consciente y reflexiva de la enajenación y los discursos que pretendan conducir hacia ideas únicas, la construcción social a partir de los escenarios de aprendizaje conlleva a la convivencia, entendiendo las perspectivas del otro, incrementando las posturas críticas que desplazan la obediencia por programación conductual y dirigen a los seres que aprenden al librepensamiento.
+
 
     p.mb-5  En la siguiente tabla se presenta una síntesis que evidencia de qué manera los modelos pedagógicos responden los interrogantes <b><i>¿qué se enseña?, ¿a quién se le enseña?, ¿dónde se enseña? y ¿cómo se enseña?</i></b> (Flórez, 2005)
 
@@ -109,7 +148,7 @@
     .row.mb-5
       .col-lg-2
         figure
-          img(src='@/assets/curso/t4-t1.svg' alt='Estructura didáctica de los modelos pedagógicos')
+          img(src='@/assets/curso/t4-i8.svg' alt='Estructura didáctica de los modelos pedagógicos')
       .col-lg-10  
         p.mb-0  El modelo pedagógico de la formación profesional integral es un documento de 2012 coherente con la Ley 119 de 1994 que recoge los principios formativos del SENA, amalgamando los aspectos técnicos de la vocación original de la institución, con los aspectos humanos en clave de las complejidades individuales. Esa mirada equilibrada posibilita interacciones potentes desde el punto de vista del hacer y sensibles desde las dinámicas humanas enfocando las acciones educativas en la formación integral mediado por el desarrollo y fortalecimiento de las competencias.     
     

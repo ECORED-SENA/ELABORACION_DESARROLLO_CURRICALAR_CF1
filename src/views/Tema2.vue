@@ -9,7 +9,7 @@
     
     .row.mb-5.justify-content-center
       .col-lg-10
-        .bloque-texto-b.color-secundario.p-4
+        .bloque-texto-b.color-secundario.p-4.mb-5.slideInUp
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             .h4.mb-0 La formación profesional integral es el proceso mediante el cual la persona adquiere y desarrolla de manera permanente conocimientos, destrezas y aptitudes e identifica, genera y asume valores y actitudes para su realización humana y su participación en el trabajo productivo y en la toma de decisiones sociales.
@@ -18,22 +18,34 @@
             .bloque-texto-d__autor 
               p.mb-0 - SENA, 2012
 
-      //-- Aqui viene el CTA
+        .tarjeta.color-secundario.p-3(data-aos="flip-left")
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/t2-i1.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Modelo pedagógico de la formación profesional integral del SENA
+                  p.text-small Descargue aquí el modelo pedagógico de la formación profesional integral en el enfoque para el desarrollo de competencias y el aprendizaje por proyectos. 
+                .col-sm-auto
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
 
-    p.mb-5  <b>El cumplir con la misión institucional asignada al SENA, implica la cualificación permanente del Instructor</b>, como agente estratégico en la atención a los aprendices, en primera instancia, como seres humanos en proceso inacabado de perfeccionamiento; en segunda instancia, como sujetos cognoscentes en capacidad de aprehender y aportar con sus actuaciones a las necesidades personales y del entorno. Esta atención de los aprendices se realiza mediante procesos formativos, en los que la construcción y reconstrucción del conocimiento es una apuesta metodológica necesaria para la acción con sentido.
+    p.mb-5(data-aos="slide-left")  <b>El cumplir con la misión institucional asignada al SENA, implica la cualificación permanente del Instructor</b>, como agente estratégico en la atención a los aprendices, en primera instancia, como seres humanos en proceso inacabado de perfeccionamiento; en segunda instancia, como sujetos cognoscentes en capacidad de aprehender y aportar con sus actuaciones a las necesidades personales y del entorno. Esta atención de los aprendices se realiza mediante procesos formativos, en los que la construcción y reconstrucción del conocimiento es una apuesta metodológica necesaria para la acción con sentido.
     .row.mb-5
       .col-lg-7
-        p.mb-3  El asumir este proceso, le implica al instructor un rol de alta complejidad, dado que, a este, le es inherente, además del dominio y la experticia tecnológica propia del programa de formación que orienta, el dominio y la experticia pedagógica y didáctica relacionada con modelos, enfoques, metodologías, estrategias propias de la formación profesional integral, que fieles a su naturaleza, aseguren el impacto en el crecimiento personal y profesional de los aprendices; así como, el impacto en el desarrollo social y productivo del país.
-        p.mb-3  El desempeño del instructor en estas condiciones requiere de procesos de formación y actualización permanentes, que le posibiliten una práctica pedagógica y técnica de calidad, idónea y coherente con las exigencias que plantean tanto, la actual sociedad de conocimiento, las tendencias del mercado laboral en el marco de la industria 4.0; tal como lo plantea la Unesco (2016) “Fortalecer la calidad de los programas de formación docente, especialmente los contenidos curriculares, las estrategias de formación y evaluación de aprendizajes y la calidad de los formadores” (p. 11). 
-        p.mb-3  La atención a las condiciones de formación y actualización permanente de los instructores <b>implica el tratamiento prospectivo y contextualizado de la formación profesional integral</b>, en el que se trascienda el tratamiento epistemológico y metodológico de carácter instrumental, para dar paso a procesos de comprensión que le otorgan sentidos y significados en función de la calidad y la pertinencia.
+        p.mb-3(data-aos="slide-up")  El asumir este proceso, le implica al instructor un rol de alta complejidad, dado que, a este, le es inherente, además del dominio y la experticia tecnológica propia del programa de formación que orienta, el dominio y la experticia pedagógica y didáctica relacionada con modelos, enfoques, metodologías, estrategias propias de la formación profesional integral, que fieles a su naturaleza, aseguren el impacto en el crecimiento personal y profesional de los aprendices; así como, el impacto en el desarrollo social y productivo del país.
+        p.mb-3(data-aos="slide-up")  El desempeño del instructor en estas condiciones requiere de procesos de formación y actualización permanentes, que le posibiliten una práctica pedagógica y técnica de calidad, idónea y coherente con las exigencias que plantean tanto, la actual sociedad de conocimiento, las tendencias del mercado laboral en el marco de la industria 4.0; tal como lo plantea la Unesco (2016) “Fortalecer la calidad de los programas de formación docente, especialmente los contenidos curriculares, las estrategias de formación y evaluación de aprendizajes y la calidad de los formadores” (p. 11). 
+        p.mb-3(data-aos="slide-up")  La atención a las condiciones de formación y actualización permanente de los instructores <b>implica el tratamiento prospectivo y contextualizado de la formación profesional integral</b>, en el que se trascienda el tratamiento epistemológico y metodológico de carácter instrumental, para dar paso a procesos de comprensión que le otorgan sentidos y significados en función de la calidad y la pertinencia.
 
       .col-lg-5
-        figure
+        figure(data-aos="flip-left")
           img.nW(src='@/assets/curso/t2-i2.svg' alt='imagen decorativa')
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        .cajon.color-secundario.p-4
+        .cajon.color-secundario.p-4(data-aos="flip-up")
           p.mb-0  En este sentido, <b>es el instructor el actor principal a quien corresponde ejecutar la política formativa institucional</b>, dicha ejecución se basa en comprensiones profundas sobre la naturaleza técnica y tecnológica de la formación profesional integral, en función de la habilitación de las personas para insertarse en el mundo laboral; sobre las metodologías que le son propias y en las que se articula de manera sistémica e integrada la teoría con la práctica en función del desarrollo de las competencias para la vida y para el trabajo.
 
     TabsB.color-secundario.mb-5
@@ -42,10 +54,10 @@
           .col-md-8.mb-4.mb-md-0
             #t_2_1.titulo-segundo
               h2  2.1  Características de la formación profesional integral 
-            p La formación para el trabajo y el desarrollo se equipara con la educación no formal en Colombia y es coherente con la Clasificación Nacional de Ocupaciones (CON) existente en el país desde 1996 y la Clasificación Internacional Unificada de Ocupaciones (CIUO) de la OIT de 1968 que permite identificar las áreas de conocimiento y desempeño en las que un trabajador puede desarrollar funciones específicas, marcan la pauta tanto para la calificación del talento humano, como para la determinación de necesidades de los empresarios cuando se abren cargos en las diferentes empresas (SENA, 2021). La formación técnica promueve habilidades procedimentales en el marco de normas sectoriales de competencia laboral relacionadas con un perfil laboral específico, en tanto que la formación técnica promueve habilidades y destrezas en el marco de las normas sectoriales de competencia laboral, sustentadas en la fundamentación conceptual de teorías y principios de las ciencias básicas y aplicadas que le permitirán al egresado insertarse en el mercado laboral o continuar en cadena de formación hacia la educación superior universitaria (SENA, 2019). 
-
+            p.mb-3  La formación profesional integral que imparte el SENA se caracteriza por estar organizada en currículos modulares, cuyos procesos de aprendizaje son teórico-prácticos, están mediados por pedagogías que integran conocimientos científicos, tecnológicos y técnicos, con elementos conceptuales de comprensión del ámbito social y ambiental, y parten de un diseño basado en competencias (SENA, 1997).
+            p.mb-3  Los módulos de formación permiten salidas ocupacionales para el desarrollo de funciones específicas en el medio laboral en tanto está asociada a una unidad de competencia.
           .col-md-4
-            figure
+            figure.slideInLeft
               img(src='@/assets/curso/t2-i3.jpg', alt='imagen decorativa')
 
       .py-4.py-md-5(titulo="2.2 Principios de la formación profesional integral" :icono="require('@/assets/curso/t2-ic2.svg')")
@@ -96,7 +108,7 @@
                 p.mb-0  El acercamiento al sistema educativo formal.
 
           .col-md-4
-            figure
+            figure.slideInLeft
               img(src='@/assets/curso/t2-i4.jpg', alt='imagen decorativa')
 
 

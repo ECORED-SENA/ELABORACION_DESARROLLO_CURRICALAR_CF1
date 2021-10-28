@@ -7,7 +7,88 @@
         span 3
       h1 Programa de formación
 
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.slideInUp
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/t3-i1.jpg')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 <b>Los lineamientos rectores de la FPI se encuentran explícitos en la Unidad Técnico-pedagógica de 1985 y el Estatuto de la Formación Profesional Integral.</b> Apropiar el sentido de la formación como el fundamento de la misión del SENA está mediado por la compresión de estos documentos. Los documentos formulados por la institución como el proyecto educativo institucional y el modelo pedagógico se alimentan de los primeros. 
+
     
+    
+    #t_3_1.titulo-segundo
+      h2 3.1  Tipos
+    p.mb-5  La Resolución 2198 de 2019 indica que la formación profesional integral se clasifica como se muestra en la siguiente tabla.
+    //-- Aqui viene la tabla
+
+    Separador
+    br
+    br
+    #t_3_2.titulo-segundo
+      h2 3.2  Componentes
+    p.mb-5  El Estatuto de la Formación Profesional Integral del SENA de 1997 enuncia los componentes de la FPI:
+    .row.mb-5
+      .col-lg-4
+        figure(data-aos="flip-left")
+          img(src='@/assets/curso/t3-i2.svg', alt='imagen decorativa')
+      .col-lg-8
+        ul.lista-ul
+          li
+            i.fas.fa-check
+            p.mb-0  Cambios científicos, tecnológicos y técnicos veloces, acompañados de exigencias crecientes en la calidad de los bienes y servicios.  
+          li
+            i.fas.fa-check
+            p.mb-0 Desarrollos revolucionarios de la microelectrónica, la biotecnología, la informática y la telemática, que modifican sustancialmente los procesos y procedimientos del trabajo productivo en todos los sectores económicos 
+          li
+            i.fas.fa-check
+            p.mb-0 Transformaciones en las organizaciones y las empresas orientadas a elevar en forma sostenida su competitividad en mercados abiertos y menos protegidos. 
+          li
+            i.fas.fa-check
+            p.mb-0 Requerimientos de aprendizajes y competencias acordes con las nuevas metas de productividad y competitividad. 
+          li
+            i.fas.fa-check
+            p.mb-0 Transformaciones de los entornos socioculturales que requieren individuos y comunidades capaces de establecer interrelaciones, abstraer información, interpretar símbolos, resolver problemas y tomar decisiones, provistos de sólidos valores éticos.
+          li
+            i.fas.fa-check
+            p.mb-0  Crisis de los modelos económicos que inciden en las relaciones entre los individuos, acompañadas por la valoración de los grupos étnicos y el redimensionamiento de las minorías sociales y culturales.  
+          li
+            i.fas.fa-check
+            p.mb-0  Conflicto permanente de la sociedad colombiana donde se observa violencia, discriminación, intolerancia, degradación del medio ambiente, atraso económico y crecimiento indiscriminado de lo urbano. Aspectos que se manifiestan en altas tasas de pobreza y miseria, de desempleo y subempleo, deterioro de los salarios reales y poblaciones desplazadas por la violencia.   
+          li
+            i.fas.fa-check
+            p.mb-0  Desequilibrio de los sectores económicos en el país; el sector de comercio, financiero y servicios se incrementa en mayor medida frente a los demás sectores; el industrial -con grandes desequilibrios tecnológicos- permanece estático, y el primario y extractivo atraviesa una de sus crisis más agudas, con una agricultura de subsistencia y niveles de tecnología artesanal.  
+
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        .cajon.color-secundario.p-4
+          p.mb-0  Los programas de formación titulada y complementaria en su diseño y, fundamentalmente, en su desarrollo curricular evidencia la problematización de la realidad para la construcción y fortalecimiento de las habilidades técnicas y humanas para el desempeño laboral; es en este contexto las características de la FPI se materializan. 
+
+
+
+
+
+    Separador
+    br
+    br
+    #t_3_3.titulo-segundo
+      h2 3.3. Modalidad de formación
+      
+    p.mb-5  La categoría modalidad de formación está relacionada con la temporalidad, la territorialidad y la interacción entre instructor y aprendices, de la siguiente manera.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

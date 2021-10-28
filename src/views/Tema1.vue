@@ -30,37 +30,37 @@
             img(src='@/assets/curso/t1-i2-1.svg', alt='Texto que describa la imagen')
 
         .tarjeta.color-acento-botones.p-3(x="5%" y="90%")
-          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+          a.mb-4.mb-lg-0(href="https://padlet.com/hernancordobaescobar/9zxpjoq331sf7ipa" target="_blank")  
             i.fas.fa-check
             | Ver más
 
         .tarjeta.color-acento-botones.p-3(x="20%" y="90%")
-          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+          a.mb-4.mb-lg-0(href="https://padlet.com/hernancordobaescobar/9zxpjoq331sf7ipa" target="_blank")  
             i.fas.fa-check
             | Ver más
 
         .tarjeta.color-acento-botones.p-3(x="35%" y="90%")
-          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+          a.mb-4.mb-lg-0(href="https://padlet.com/hernancordobaescobar/9zxpjoq331sf7ipa" target="_blank")  
             i.fas.fa-check
             | Ver más
 
         .tarjeta.color-acento-botones.p-3(x="50%" y="90%")
-          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+          a.mb-4.mb-lg-0(href="https://padlet.com/hernancordobaescobar/9zxpjoq331sf7ipa" target="_blank")  
             i.fas.fa-check
             | Ver más
 
         .tarjeta.color-acento-botones.p-3(x="65%" y="90%")
-          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+          a.mb-4.mb-lg-0(href="https://padlet.com/hernancordobaescobar/9zxpjoq331sf7ipa" target="_blank")  
             i.fas.fa-check
             | Ver más            
 
         .tarjeta.color-acento-botones.p-3(x="80%" y="90%")
-          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+          a.mb-4.mb-lg-0(href="http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1673231" target="_blank")  
             i.fas.fa-check
             | Ver más    
 
         .tarjeta.color-acento-botones.p-3(x="93%" y="90%")
-          a.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")  
+          a.mb-4.mb-lg-0(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38477" target="_blank")  
             i.fas.fa-check
             | Ver más    
 
@@ -104,41 +104,13 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Muestras
   
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     // variables de vue
   }),

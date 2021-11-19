@@ -5,7 +5,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Formación para el trabajo y el desarrollo humano
+      h1 Formación Profesional Integral
     
     .row.mb-5.justify-content-center
       .col-lg-10

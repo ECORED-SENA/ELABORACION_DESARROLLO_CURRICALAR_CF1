@@ -32,10 +32,10 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        figcaption.customCaption  <b>Figura</b> Tipos de proyectos
+        figcaption.customCaption  <b>Figura 9</b> Tipos de proyectos
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t7-i3.svg' alt='imagen decorativa')
-        figcaption  Nota. Tomada de Pecore (s.f.)
+        figcaption  Nota. Tomada de Gallego y Pérez (1998)
 
     .row.mb-5
       .col-lg-8

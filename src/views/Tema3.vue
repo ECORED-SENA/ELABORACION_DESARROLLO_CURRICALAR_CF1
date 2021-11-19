@@ -23,6 +23,7 @@
     p.mb-5  La Resolución 2198 de 2019 indica que la formación profesional integral se clasifica como se muestra en la siguiente tabla.
     .row.mb-5.justify-content-center
       .col-lg-8
+        figcaption.customCaption <b>Tabla 1</b> Clasificación de la FPI
         .tabla-b.color-primario.mb-5
           table
             thead.tabla-b__header
@@ -87,7 +88,7 @@
             p.mb-0  Cambios científicos, tecnológicos y técnicos veloces, acompañados de exigencias crecientes en la calidad de los bienes y servicios.  
           li
             i.fas.fa-check
-            p.mb-0 Desarrollos revolucionarios de la microelectrónica, la biotecnología, la informática y la telemática, que modifican sustancialmente los procesos y procedimientos del trabajo productivo en todos los sectores económicos 
+            p.mb-0 Desarrollos revolucionarios de la microelectrónica, la biotecnología, la informática y la telemática, que modifican sustancialmente los procesos y procedimientos del trabajo productivo en todos los sectores económicos.
           li
             i.fas.fa-check
             p.mb-0 Transformaciones en las organizaciones y las empresas orientadas a elevar en forma sostenida su competitividad en mercados abiertos y menos protegidos. 
@@ -123,6 +124,8 @@
       h2 3.3. Modalidad de formación
 
     p.mb-5  La categoría modalidad de formación está relacionada con la temporalidad, la territorialidad y la interacción entre instructor y aprendices, de la siguiente manera.
+    
+    figcaption.customCaption <b>Figura 1</b>  Modalidades de formación
     .row.mb-5.justify-content-center
       .col-xs-6.col-sm-8.col-md-7.col-lg-6.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")

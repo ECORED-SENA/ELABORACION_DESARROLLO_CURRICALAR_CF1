@@ -382,7 +382,33 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Alexandra Hoyos Figueroa',
+        cargo: 'Profesional de diseño y producción curricular',
+        centro: 'Centro para el Desarrollo de Hábitat y la Construcción',
+      },
+      {
+        nombre: 'Hernán Darío Córdoba Escobar',
+        cargo: 'Instructor',
+        centro: 'Centro para el Desarrollo de Hábitat y la Construcción',
+      },
+      {
+        nombre: 'Adriana López López',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro para el Desarrollo de Hábitat y la Construcción',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -390,22 +416,28 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Jorge Armando Villamizar',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Luis Fabian Robles Méndez',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Mauricio Santaella',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -416,7 +448,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María camila ovalle ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

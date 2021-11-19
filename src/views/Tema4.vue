@@ -50,7 +50,7 @@
 
     .row.mb-5
       .col-lg-12
-        figcaption.customCaption <b>Figura</b> Esquema modelos pedagógicos
+        figcaption.customCaption <b>Figura 2</b> Esquema modelos pedagógicos
         figure(data-aos="flip-right")
           img(src='@/assets/curso/t4-i2.svg', alt='imagen decorativa')
         figcaption  Nota: Tomada Flórez (1994).
@@ -159,7 +159,7 @@
             .col-lg-6
               p Es de vital importancia que una institución educativa contemporánea tome como referente los elementos más importantes de los modelos pedagógicos descritos anteriormente, para la construcción de su propio modelo que a la postre será quien le de identidad formativa y norte pedagógico. De manera gráfica se explica a través de la siguiente figura.
             .col-lg-6.bg-softYellow
-              figcaption.customCaption <b>Figura</b> Modelo pedagógico del SENA
+              figcaption.customCaption <b>Figura 3</b> Modelo pedagógico del SENA
               figure.p-3
                 img.nW.centered(src='@/assets/curso/t4-i9.png' alt='Modelo pedagógico del SENA')
               figcaption  Nota. Tomada de SENA (2012)

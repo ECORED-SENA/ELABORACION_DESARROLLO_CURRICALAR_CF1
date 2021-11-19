@@ -132,7 +132,7 @@
       | &nbsp;Método de proyectos
     p.mb-3  El método de proyectos tiene sus orígenes conceptuales y prácticos en Kilpatrick, influenciado por Dewey. Este autor planteó como fundamental para el aprendizaje, proponer a los estudiantes experiencias significativas, involucrar a los estudiantes en oportunidades de aprendizaje que los conecten con el mundo que ellos viven. El conocimiento genera motivación intrínseca, las actividades de aprendizaje serán vistas con alegría y confianza y el profesor es un guía para los estudiantes (Pecore, s.f.).
     p.text-bold Se reconocen cuatro tipos de proyectos así: 
-    .row.mb-5.justify-content-center
+    .row.mb-5.justify-content-center.align-items-center
       .col-xs-6.col-sm-8.col-md-7.col-lg-4.col-xl-3
         .nav-holder.align-items-center(data-aos="flip-left")
           img(src="@/assets/curso/t6-c1.png", alt="Imagen decorativa")
@@ -241,7 +241,7 @@
             i.fas.fa-check  
             p.mb-0  La retroalimentación y evaluación del proceso es constante a lo largo del desarrollo del proyecto. 
       .col-lg-5
-        figcaption.customCaption.mb-2 <b>Figura</b> Etapas del aprendizaje basado en proyectos
+        figcaption.customCaption.mb-2 <b>Figura 6</b> Etapas del aprendizaje basado en proyectos
         figure(data-aos="slide-left")
           img(src='@/assets/curso/t6-i7.svg' alt='imagen decorativa')
 
@@ -249,7 +249,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-8
-        figcaption.customCaption.mb-2 <b>Figura</b> Aprendizaje basado en proyectos
+        figcaption.customCaption.mb-2 <b>Figura 7</b> Aprendizaje basado en proyectos
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t6-i8.svg' alt='ciclo Aprendizaje basado en proyectos')
         figcaption  Nota. Tomada de Martí et al. (2010)
@@ -315,7 +315,7 @@
              
                                     
             .col-lg-6
-              figcaption.customCaption  <b>Figura</b> Dimensiones de aprendizaje Kolb
+              figcaption.customCaption  <b>Figura 8</b> Dimensiones de aprendizaje Kolb
               figure(data-aos="flip-left")
                 img.nW.centered(src='@/assets/curso/t6-p1.png' alt='imagen decorativa')
               figcaption  Nota. Tomada de Vergara (2021)

@@ -121,7 +121,7 @@
     br
     br
     #t_3_3.titulo-segundo
-      h2 3.3. Modalidad de formación
+      h2 3.3. Modalidades de formación
 
     p.mb-5  La categoría modalidad de formación está relacionada con la temporalidad, la territorialidad y la interacción entre instructor y aprendices, de la siguiente manera.
     

@@ -19,7 +19,7 @@
                 p.mb-0 En el recurso que se presenta a continuación, se pueden revisar los momentos y soportes legales que dieron apertura a la formación para el trabajo y el desarrollo humano en Colombia. 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LyI-YBdJCyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5  Para comprender la concepción actual de formación para el trabajo y el desarrollo humano, se invita a consultar la siguiente línea de tiempo que ubica, cronológicamente, las leyes y artículos que, desde la organización y disposición del Estado, se han propuesto para tal fin:
 

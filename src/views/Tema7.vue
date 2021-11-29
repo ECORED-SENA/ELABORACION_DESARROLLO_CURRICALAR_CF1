@@ -32,7 +32,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        figcaption.customCaption  <b>Figura 9</b> Tipos de proyectos
+        figcaption.customCaption  <b>Figura 9</b> Interrogantes de la enseñabilidad
         figure(data-aos="flip-left")
           img(src='@/assets/curso/t7-i3.svg' alt='imagen decorativa')
         figcaption  Nota. Tomada de Gallego y Pérez (1998)

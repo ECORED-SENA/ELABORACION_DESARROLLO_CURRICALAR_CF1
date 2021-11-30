@@ -127,8 +127,8 @@
     
     figcaption.customCaption <b>Figura 1</b>  Modalidades de formación
     .row.mb-5.justify-content-center
-      .col-xs-6.col-sm-8.col-md-7.col-lg-6.col-xl-4
-        .nav-holder.align-items-center(data-aos="flip-left")
+      .col-xs-6.col-sm-8.col-md-7.col-lg-6.col-xl-4.align-items-center
+        .nav-holder(data-aos="flip-left")
           img(src="@/assets/curso/t3-c1.png", alt="Imagen decorativa")
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2

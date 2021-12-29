@@ -5,7 +5,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 6
-      h1 Teorías de aprendizaje
+      h1 Teorías del aprendizaje
 
     .row.mb-5.justify-content-center
       .col-lg-10

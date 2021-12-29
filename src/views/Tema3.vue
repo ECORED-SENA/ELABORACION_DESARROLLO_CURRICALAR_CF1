@@ -133,7 +133,7 @@
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Modalidad presencial
-              p.small Se lleva a cabo en los ambientes de aprendizaje físico, el proceso de formación en competencias se lleva a cabo en interacción con el instructor y en colaboración entre los aprendices, en el SENA el porcentaje de trabajo autónomo es del 80%. Esta modalidad no excluye la mediación de las TIC. 
+              p.small Se lleva a cabo en los ambientes de aprendizaje físico, el proceso de formación en competencias se lleva a cabo en interacción con el instructor y en colaboración entre los aprendices, en el SENA el porcentaje de trabajo autónomo es del 80 %. Esta modalidad no excluye la mediación de las TIC. 
 
       .col-xs-6.col-sm-8.col-md-7.col-lg-6.col-xl-4
         .nav-holder.align-items-center(data-aos="flip-left")

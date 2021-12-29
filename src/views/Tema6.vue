@@ -49,7 +49,7 @@
     br
 
     #t_6_2.titulo-segundo
-      h2  6.2  Teoría de aprendizaje sociocultural
+      h2  6.2  Teoría del aprendizaje sociocultural
     p.mb-5  En el recurso teoría del aprendizaje sociocultural se puede consultar información relevante con el propósito de ampliar algunos elementos conceptuales de dicho aprendizaje.    
     
     .tarjeta.bg-sliders.p-5.mb-5
@@ -118,7 +118,7 @@
     br
     br   
     #t_6_3.titulo-segundo
-      h2  6.3  Estrategias de aprendizaje
+      h2  6.3  Estrategias del aprendizaje
     .row.mb-5
       .col-lg-8
         p.mb-3  Las estrategias de aprendizaje activo permiten hacer prácticas las teorías de aprendizaje descritas en los párrafos precedentes, a su vez, son el piso conceptual de las acciones intencionales de los instructores en los ambientes de aprendizaje para fomentar la construcción de nuevo conocimiento teórico y práctico, evidenciado a través de habilidades que les permiten a los estudiantes desempeñarse en ámbitos académicos y profesionales específicos

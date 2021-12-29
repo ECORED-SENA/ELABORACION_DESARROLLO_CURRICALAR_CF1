@@ -121,7 +121,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Modelos pedagógicos',
+        titulo: 'PEI',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -141,12 +141,6 @@ export default {
             numero: '5.3',
             titulo: 'Componentes',
             hash: 't_5_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.4',
-            titulo: 'PEI del SENA',
-            hash: 't_5_4',
           },
         ],
       },
@@ -264,7 +258,6 @@ export default {
     {
       referencia:
         'Organización Internacional del Trabajo. (2013). Aportes al debate sobre objetos de aprendizaje para el desarrollo de competencias laborales. OIT.',
-      link: 'http://www.oitcinterfor.org/l-laborales',
     },
     {
       referencia:
@@ -285,7 +278,7 @@ export default {
         'SENA. (2012). Modelo pedagógico de la formación integral. SENA',
     },
     {
-      referencia: 'SENA. (2013). proyecto educativo institucional. SENA.',
+      referencia: 'SENA. (2013). Proyecto educativo institucional. SENA.',
     },
     {
       referencia:
@@ -335,7 +328,7 @@ export default {
         'acción y efecto de aprender algún arte, oficio u otra cosa. Adquisición por la práctica de una conducta duradera.',
     },
     {
-      termino: 'Didáctica ',
+      termino: 'Didáctica',
       significado:
         'propio, adecuado o con buenas condiciones para enseñar o instruir. Que tiene como finalidad fundamental enseñar o instruir.',
     },

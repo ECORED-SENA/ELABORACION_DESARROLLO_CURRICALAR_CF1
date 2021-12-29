@@ -70,7 +70,7 @@
         .row
           .col-lg-8
             h4 5.3 Componentes
-            p El proyecto educativo institucional en el SENA describe la situación histórica, contextual internacional e internacional, jurídica y política, como marco para la formulación de la teleología; es decir, la misión, la visión, los objetivos formativos, los principios, valores los cuales los retoman del estatuto de la formación profesional. Definen la FPI a partir de competencias, describe cual es el contexto pedagógico del SENA en el marco de teorías de aprendizaje en donde el aprendiz es el centro del proceso y como estrategia pedagógica la formación por proyectos, perfiles, modalidades de formación, políticas de selección de aprendices, evaluación de los aprendizajes y políticas de permanencia.
+            p El proyecto educativo institucional en el SENA describe la situación histórica, contextual internacional e internacional, jurídica y política, como marco para la formulación de la teleología; es decir, la misión, la visión, los objetivos formativos, los principios, valores los cuales los retoman del estatuto de la formación profesional. Definen la FPI a partir de competencias, describe cuál es el contexto pedagógico del SENA en el marco de teorías de aprendizaje en donde el aprendiz es el centro del proceso y como estrategia pedagógica la formación por proyectos, perfiles, modalidades de formación, políticas de selección de aprendices, evaluación de los aprendizajes y políticas de permanencia.
           .col-lg-4
             figure(data-aos="flip-left")
               img.mb-3(src='@/assets/curso/t5-i5.png', alt='imagen decorativa') 
